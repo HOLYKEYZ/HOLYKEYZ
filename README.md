@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I’m currently working on building modern, responsive web apps with React and apps with fullstack JavaScript.<br>🤝 I’m looking to collaborate on real-world tech projects and startups.<br>🔐 I’m looking for help with Cybersecurity tools and practices.<br>💻 I’m currently learning Python, Flask, and advanced frontend techniques.<br>⚙️ Ask me about Fullstack development, AI engineering, and modern UI/UX.<br>⚡ Fun fact: I can code all night with Fearless and still wake up ready to grind.
+🧠 I’m currently working on building modern, responsive web apps with React and apps with fullstack JavaScript.<br>🤝 I’m looking to collaborate on real-world tech projects and startups.<br>🔐 I’m looking for help with Cybersecurity tools and practices.<br>💻 I’m currently Using Python, Flask for advanced frontend techniques.<br>⚙️ Ask me about Fullstack development, AI engineering, and modern design.<br>⚡ Fun fact: I can code all night with Fearless and still wake up ready to grind.
 
 
 ## 🌐 Socials:
