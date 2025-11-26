@@ -1,6 +1,7 @@
 # 💫 About Me:
-🧠 I’m currently working on building modern, responsive web apps with React and apps with fullstack JavaScript.<br>🤝 I’m looking to collaborate on real-world tech projects and startups.<br>🔐 I’m looking for help with Cybersecurity tools and practices.<br>💻 I’m currently Using Python, Flask for advanced frontend techniques.<br>⚙️ Ask me about Fullstack development, AI engineering, and modern design.<br>⚡ Fun fact: I can code all night with Fearless, and still wake up ready to grind.
+🧠 I’m currently building web apps with fullstack JavaScript.<br>🤝 I’m looking to collaborate on real-world tech projects and startups.<br>🔐 I’m currently working with Cybersecurity tools and practices.<br>💻 I’m currently Using Python to create some advanced Security and Ai tools.<br>⚙️ Ask me about Fullstack development, AI engineering, and Cyber Security.<br>⚡ Fun fact: I can code all night, and still wake up ready to grind.
 
+I love contributing & software that providies real time solutions to the problems in the world🌐
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/josepha.mayo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jos4471) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayandajoseph390@gmail.com) 
