@@ -32,13 +32,13 @@ Building real-time solutions to global problems through code. Specialized in ful
 
 ## 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=dark&hide_border=true&layout=compact&langs_count=6)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HOLYKEYZ&theme=dracula)
 
 ---
 
 ## 📫 Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayandajoseph390@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2349019029665) [![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.net/@josepha.mayo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayandajoseph390@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2349019029665) [![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/jos4471) [![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.net/@josepha.mayo)
 
 ---
 
