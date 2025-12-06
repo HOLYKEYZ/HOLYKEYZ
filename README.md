@@ -32,7 +32,7 @@ Building real-time solutions to global problems through code. Specialized in ful
 
 ## 📊 GitHub Activity
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HOLYKEYZ&theme=dracula)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HOLYKEYZ&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
