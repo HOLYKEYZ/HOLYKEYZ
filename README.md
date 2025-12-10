@@ -10,10 +10,8 @@ Bridging AI alignment, digital security, and production systems. Building tools 
 **AI Safety** - Researching and building safeguards for AI systems  
 **Digital Security** - Threat analysis, vulnerability research, and security automation  
 **Fullstack Development** - Scalable web applications from concept to production
-# Joseph Ayanda
-**AI Safety Researcher | Security Engineer | Fullstack Developer**
 
-Building real-time solutions to world problems through softwares
+Building real-time solutions to world problems through software
 ---
 
 ## 🛠️ Tech Arsenal
