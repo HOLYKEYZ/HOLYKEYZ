@@ -24,4 +24,3 @@ Building real-time solutions to world problems through software
 ## 🤝 Open to Collaboration
 Working on AI safety research, security tools, or building something that scales? Let's talk.
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayandajoseph390@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2349019029665) [![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.net/@josepha.mayo)
-since holy c is part of my top languages, add it to my stack
