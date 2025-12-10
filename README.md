@@ -1,23 +1,25 @@
 # Joseph Ayanda
+**AI Safety Researcher | Security Engineer | Fullstack Developer**
 
-**Fullstack Developer | AI Engineer | Cybersecurity Enthusiast**
-
-Building real-time solutions to global problems through code. Specialized in fullstack JavaScript, AI tooling, and security automation.
-
----
-
-## 🚀 What I'm Building
-
-🔐 **Cybersecurity Tools** - Advanced security and AI tools using Python  
-💻 **Fullstack Web Apps** - Production-ready applications with modern JavaScript stack  
-🤝 **Open to Collaboration** - Real-world tech projects and startup ventures
+Bridging AI alignment, digital security, and production systems. Building tools that matter.
 
 ---
 
-## 🛠️ Core Tech Stack
+## 🎯 What I Do
 
-**Languages & Frameworks**  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+**AI Safety** - Researching and building safeguards for AI systems  
+**Digital Security** - Threat analysis, vulnerability research, and security automation  
+**Fullstack Development** - Scalable web applications from concept to production
+# Joseph Ayanda
+**AI Safety Researcher | Security Engineer | Fullstack Developer**
+
+Building real-time solutions to world problems through softwares
+---
+
+## 🛠️ Tech Arsenal
+
+**Systems & Core**  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -25,16 +27,19 @@ Building real-time solutions to global problems through code. Specialized in ful
 **Backend**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 
-**Database & Cloud**  
+**Infrastructure**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
 
 ---
 
-## 📊 GitHub Activity
-![Top Languages](https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=dark&layout=compact&langs_count=4&hide=html,css)
+## 📊 Activity
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayandajoseph390@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2349019029665) [![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.net/@josepha.mayo)
+![Top Languages](https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=dark&layout=compact&langs_count=4&hide=html,css)
 
 ---
 
-*"Code all night, wake up ready to grind."*
+## 🤝 Open to Collaboration
+
+Working on AI safety research, security tools, or building something that scales? Let's talk.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayandajoseph390@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2349019029665) [![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.net/@josepha.mayo)
