@@ -32,7 +32,7 @@ Building real-time solutions to world problems through software
 
 ## 📊 Activity
 
-![Top Languages](https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=dark&layout=compact&langs_count=4&hide=html,css)
+![Top Languages](https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=dark&layout=compact&langs_count=5&hide=html,css)
 
 ---
 
