@@ -31,12 +31,7 @@ Building real-time solutions to global problems through code. Specialized in ful
 ---
 
 ## 📊 GitHub Activity
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 📫 Connect
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayandajoseph390@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2349019029665) [![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.net/@josepha.mayo)
 
