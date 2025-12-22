@@ -19,8 +19,7 @@ Building real-time solutions to world problems through software
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
 ---
 ## 📊 Activity
-![GitHub Stats](https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HOLYKEYZ&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=dark&show_icons=true&count_private=true)
 ![Top Languages](https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=dark&layout=compact&langs_count=5&hide=html,css,makefile,procfile)
 ---
 ## 🤝 Open to Collaboration
