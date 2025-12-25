@@ -33,7 +33,7 @@ Building real-time solutions to world problems through software
 
 ## 📊 Activity
 
-![GitHub Stats](https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=dark&show_icons=true&count_private=true&hide_border=true&card_width=400&cache_seconds=1800) ![Top Languages](https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=dark&layout=compact&langs_count=6&hide=html&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=dark&show_icons=true&count_private=true&hide_border=true&card_width=400&cache_seconds=1800) ![Top Languages](https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=dark&layout=compact&langs_count=6&hide=html,mako,procfile&cache_seconds=1800)
 
 ---
 
