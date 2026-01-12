@@ -1,7 +1,7 @@
 # Joseph Ayanda
 
 <div align="center">
-  <img src="cover.jpeg" alt="A man is great because failure hasn't stopped him" width="100%"/>
+  <img src="cover.jpeg" alt="A man is great because failure hasn't stopped him" width="800"/>
 </div>
 
 <br>
