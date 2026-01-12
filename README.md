@@ -1,6 +1,12 @@
 # Joseph Ayanda
 **AI Safety Researcher | Security Engineer | Fullstack Developer**
 
+<div align="center">
+  <img src="cover.jpeg" alt="A man is great because failure hasn't stopped him" width="100%"/>
+</div>
+
+<br>
+
 Bridging AI alignment, digital security, and production systems. Building tools that matter.
 
 ---
