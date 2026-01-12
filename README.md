@@ -5,6 +5,7 @@
 </div>
 
 <br>
+
 **AI Safety Researcher | Security Engineer | Fullstack Developer**
 
 Bridging AI alignment, digital security, and production systems. Building tools that matter.
