@@ -15,7 +15,7 @@ Bridging AI alignment, digital security, and production systems. Building tools 
 ## 🎯 What I Do
 
 **AI Safety** - Researching and building safeguards for AI systems  
-**Digital Security** - Threat analysis, vulnerability research, and security automation  
+**Digital Security** - Threat/vuln analysis, pentesting and security automation  
 **Fullstack Development** - Scalable web applications from concept to production
 
 Building real-time solutions to world problems through software
