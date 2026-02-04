@@ -6,7 +6,7 @@
 
 <br>
 
-**AGENTIC ENGINEER | AI Safety Researcher | Security Engineer | Fullstack Developer**
+**AGENTIC ENGINEER**
 
 Bridging AI alignment, digital security, and production systems. Building tools that matter.
 
@@ -14,10 +14,10 @@ Bridging AI alignment, digital security, and production systems. Building tools 
 
 ## 🎯 What I Do
 
-**AI Safety** - Researching and building safeguards for AI systems  
+**AI SAFETY!** - Researching and building safeguards for AI systems  
 **Digital Security** - Threat/vuln analysis, pentesting and security automation  
 **Fullstack Development** - Scalable web applications from concept to production  
-**Agentic Engineer** - not vibe coding lmao
+**Agentic Engineering** - not vibe coding lmao
 
 Building real-time solutions to world problems through software
 
