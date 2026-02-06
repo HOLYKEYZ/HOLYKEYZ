@@ -39,7 +39,7 @@ Building real-time solutions to world problems through software
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Infrastructure & Deployment**  
-![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/render-46E3B7.svg?style=flat-square&logo=render&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/render-000000.svg?style=flat-square&logo=render&logoColor=46E3B7)
 
 ---
 
@@ -47,7 +47,10 @@ Building real-time solutions to world problems through software
 
 <p align="center">
   <img src="https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=dark&show_icons=true&count_private=true&hide_border=true&cache_seconds=3600" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HOLYKEYZ&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HOLYKEYZ&theme=transparent&hide_border=true&border_radius=5&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
