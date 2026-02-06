@@ -1,4 +1,4 @@
-# Joseph Ayanda <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# Joseph Ayanda
 
 <div align="center">
   <img src="cover2.jpeg" alt="A man is great because failure hasn't stopped him" width="800"/>
@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HOLYKEYZ&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=HOLYKEYZ&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 **AGENTIC ENGINEER**
@@ -46,15 +46,12 @@ Building real-time solutions to world problems through software
 ## 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=dark&show_icons=true&count_private=true&hide_border=true&cache_seconds=3600" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=transparent&show_icons=true&count_private=true&hide_border=true&icon_color=6366f1&title_color=6366f1&text_color=ffffff&cache_seconds=3600" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=HOLYKEYZ&theme=transparent&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=HOLYKEYZ&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=dark&layout=compact&langs_count=8&hide_border=true&cache_seconds=3600" alt="Top Languages"/>
+  <img src="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=8&hide_border=true&title_color=6366f1&text_color=ffffff&cache_seconds=3600" alt="Top Languages"/>
 </p>
 
 ---
