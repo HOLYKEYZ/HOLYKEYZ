@@ -37,9 +37,10 @@ Building real-time solutions to world problems through software
 
 **Backend**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
+  
 **Infrastructure & Deployment**  
-<img src="https://avatars.githubusercontent.com/u/77690634?s=20" height="20"/> ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)<br>
+[![Neon](https://img.shields.io/badge/-Neon-000000?style=flat-square)](https://neon.tech)<img src="https://avatars.githubusercontent.com/u/77690634?s=16" height="16" style="margin-left:-70px;margin-right:50px;"/> ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)<br>
+![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/render-000000.svg?style=flat-square&logo=render&logoColor=46E3B7) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)<br>
 ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/render-000000.svg?style=flat-square&logo=render&logoColor=46E3B7)
 
 ---
