@@ -1,10 +1,14 @@
-# Joseph Ayanda
+# Joseph Ayanda <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 <div align="center">
   <img src="cover2.jpeg" alt="A man is great because failure hasn't stopped him" width="800"/>
 </div>
 
 <br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HOLYKEYZ&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 **AGENTIC ENGINEER**
 
@@ -34,14 +38,21 @@ Building real-time solutions to world problems through software
 **Backend**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Infrastructure**  
-![Neon](https://img.shields.io/badge/Neon-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDIgMC04LTMuNTgtOC04czMuNTgtOCA4LTggOCAzLjU4IDggOC0zLjU4IDgtOCA4eiIgZmlsbD0iIzAwRTU5OSIvPgo8L3N2Zz4K&logoColor=00E599) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)
+**Infrastructure & Deployment**  
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/render-46E3B7.svg?style=flat-square&logo=render&logoColor=white)
 
 ---
 
 ## 📊 Activity
 
-![GitHub Stats](https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=dark&show_icons=true&count_private=true&hide_border=true&card_width=400&cache_seconds=3600) ![Top Languages](https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=dark&layout=compact&langs_count=8&cache_seconds=3600)
+<p align="center">
+  <img src="https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=dark&show_icons=true&count_private=true&hide_border=true&cache_seconds=3600" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HOLYKEYZ&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=dark&layout=compact&langs_count=8&hide_border=true&cache_seconds=3600" alt="Top Languages"/>
+</p>
 
 ---
 
