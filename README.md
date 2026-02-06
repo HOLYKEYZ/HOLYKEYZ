@@ -49,4 +49,4 @@ Building real-time solutions to world problems through software
 
 Working on AI safety research, security tools, or building something that scales? Let's talk.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayandajoseph390@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2349019029665) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/jos44711)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ayandajoseph390@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2349019029665) [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jos44711)
