@@ -50,7 +50,7 @@ Building real-time solutions to world problems through software
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HOLYKEYZ&theme=transparent&hide_border=true&border_radius=5&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=HOLYKEYZ&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
