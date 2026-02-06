@@ -41,6 +41,7 @@ Building real-time solutions to world problems through software
 **Infrastructure & Deployment**  
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)<br>
 ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/render-000000.svg?style=flat-square&logo=render&logoColor=46E3B7)
+
 ---
 
 ## 📊 Activity
