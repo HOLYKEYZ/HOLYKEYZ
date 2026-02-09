@@ -21,7 +21,7 @@ Bridging AI alignment, digital security, and production systems. Building tools 
 **AI SAFETY!** - Researching and building safeguards for AI systems  
 **Digital Security** - Threat/vuln analysis, pentesting and security automation  
 **Fullstack Development** - Scalable web applications from concept to production  
-**Agentic Engineering** - not vibe coding lmao
+<p align="center"><b>Agentic Engineering</b></p>
 
 Building real-time solutions to world problems through software
 
