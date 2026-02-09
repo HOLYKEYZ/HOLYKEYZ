@@ -49,7 +49,7 @@ Building real-time solutions to world problems through software
 <p align="center">
   <img src="https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=transparent&show_icons=true&count_private=true&border_color=4338ca&icon_color=4338ca&title_color=4338ca&text_color=ffffff&cache_seconds=3600" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=HOLYKEYZ&theme=transparent&border=4338ca&ring=4338ca&fire=4338ca&currStreakLabel=4338ca&currStreakNum=4338ca&sideNums=4338ca&sideLabels=4338ca&dates=888888" alt="GitHub Streak" height="165"/>
-  <img src="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&hide=css&border_color=4338ca&title_color=4338ca&text_color=4338ca&cache_seconds=3600" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&hide=css&border_color=4338ca&title_color=4338ca&text_color=818cf8&cache_seconds=3600" alt="Top Languages" height="165"/>
 </p>
 
 ---
