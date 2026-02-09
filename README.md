@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HOLYKEYZ&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=HOLYKEYZ&color=5D3754&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 **AGENTIC ENGINEER**
@@ -47,9 +47,9 @@ Building real-time solutions to world problems through software
 ## 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=transparent&show_icons=true&count_private=true&border_color=6366f1&icon_color=6366f1&title_color=6366f1&text_color=ffffff&cache_seconds=3600" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=HOLYKEYZ&theme=transparent&border=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" height="165"/>
-  <img src="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&hide=css&border_color=6366f1&title_color=6366f1&text_color=ffffff&cache_seconds=3600" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=transparent&show_icons=true&count_private=true&border_color=5D3754&icon_color=5D3754&title_color=5D3754&text_color=ffffff&cache_seconds=3600" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=HOLYKEYZ&theme=transparent&border=5D3754&ring=5D3754&fire=5D3754&currStreakLabel=5D3754" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&hide=css&border_color=5D3754&title_color=5D3754&text_color=ffffff&cache_seconds=3600" alt="Top Languages" height="165"/>
 </p>
 
 ---
