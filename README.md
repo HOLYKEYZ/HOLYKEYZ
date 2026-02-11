@@ -18,7 +18,7 @@ Bridging AI alignment, digital security, and production systems. Building tools 
 
 ## 🎯 What I Do
 
-**AI SAFETY** - Researching and engineering safeguards for AI systems  
+**AI Safety** - Researching and engineering safeguards for AI systems  
 **Digital Security** - Threat/vuln analysis, pentesting and security automation  
 **Fullstack Development** - Scalable web applications from concept to production  
 **Agentic Engineering** - Coding at the speed of thought
