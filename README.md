@@ -18,7 +18,7 @@ Bridging AI alignment, digital security, and production systems. Building tools 
 
 ## 🎯 What I Do
 
-**AI SAFETY!** - Researching and building safeguards for AI systems  
+**AI Safety** - Researching and engineering safeguards for AI systems(also red teaming)  
 **Digital Security** - Threat/vuln analysis, pentesting and security automation  
 **Fullstack Development** - Scalable web applications from concept to production  
 **Agentic Engineering** - Coding at the speed of thought
@@ -62,6 +62,6 @@ Building real-time solutions to world problems through software
 
 ## 🤝 Open to Collaboration
 
-Working on AI safety research, security tools, or building something that scales? Let's talk.
+Working on AI safety(or LLMs red teaming), security tools, or scalable systems? Let's talk.
 
 [![Email](https://img.shields.io/badge/Email-4338ca?style=flat-square&logo=gmail&logoColor=white)](mailto:ayandajoseph390@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-4338ca?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2349019029665) [![Twitter](https://img.shields.io/badge/Twitter-4338ca?style=flat-square&logo=x&logoColor=white)](https://x.com/jos44711)
