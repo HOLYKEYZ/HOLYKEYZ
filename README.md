@@ -29,7 +29,7 @@ Building real-time solutions to world problems through software
 
 ## 🛠️ Tech Arsenal
 
-<img src="joseph.jpeg" align="right" width="250" style="border-radius: 20px; margin-left: 20px; margin-top: -50px; margin-right: 30px;" />
+<img src="joseph.jpeg" align="right" width="28%" style="border-radius: 20px; margin-left: 20px; margin-top: -50px; margin-right: 20px;" />
 
 **Systems & Core**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![HolyC](https://img.shields.io/badge/HolyC-%23000000.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
