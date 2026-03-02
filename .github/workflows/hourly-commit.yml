@@ -2,8 +2,9 @@ name: Hourly Commit
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour on the hour
-  workflow_dispatch: # Allows manual triggering
+    - cron: '0 * * * *'  # Primary: every hour on the hour
+    - cron: '30 * * * *' # Fallback: catches delayed :00 runs
+  workflow_dispatch:
 
 jobs:
   auto-commit:
@@ -12,16 +13,25 @@ jobs:
       contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
-      - name: Update timestamp
+      - name: Check timing and update
         run: |
+          LAST_COMMIT=$(git log -1 --format=%ct)
+          NOW=$(date +%s)
+          DIFF=$((NOW - LAST_COMMIT))
+
+          if [ $DIFF -lt 3300 ]; then
+            echo "Only $((DIFF / 60))m since last commit — skipping."
+            exit 0
+          fi
+
+          echo "Last commit was $((DIFF / 60))m ago — committing."
           date > last_updated.txt
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "HOLYKEYZ"
+          git config --global user.email "ayandajoseph390@gmail.com"
           git add last_updated.txt
-          git commit -m "chore: hourly update [skip ci]" || echo "No changes to commit"
+          git commit -m "chore: hourly update"
           git push
