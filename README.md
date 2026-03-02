@@ -41,17 +41,29 @@ Building real-time solutions to world problems through software
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
   
 **Infrastructure & Deployment**  
-<img src="https://avatars.githubusercontent.com/u/77690634?s=20" height="18"/> ![Neon](https://img.shields.io/badge/Neon-0d1117?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)<br>
-![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/render-000000.svg?style=flat-square&logo=render&logoColor=46E3B7)
+<img src="https://avatars.githubusercontent.com/u/77690634?s=20" height="18"/> ![Neon](https://img.shields.io/badge/Neon-4338ca?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)<br>
+![Vercel](https://img.shields.io/badge/vercel-1a1a2e.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/render-1a1a2e.svg?style=flat-square&logo=render&logoColor=46E3B7)
 
 ---
 
 ## 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=transparent&show_icons=true&count_private=true&border_color=4338ca&icon_color=4338ca&title_color=4338ca&text_color=ffffff&cache_seconds=3600" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=HOLYKEYZ&theme=transparent&border=4338ca&ring=4338ca&fire=4338ca&currStreakLabel=4338ca&currStreakNum=4338ca&sideNums=4338ca&sideLabels=4338ca&dates=888888" alt="GitHub Streak" height="165"/>
-  <img src="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&hide=css&border_color=4338ca&title_color=4338ca&text_color=818cf8&cache_seconds=3600" alt="Top Languages" height="165"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=transparent&show_icons=true&count_private=true&border_color=4338ca&icon_color=4338ca&title_color=4338ca&text_color=ffffff&cache_seconds=3600"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=transparent&show_icons=true&count_private=true&border_color=4338ca&icon_color=4338ca&title_color=4338ca&text_color=24292e&cache_seconds=3600"/>
+    <img src="https://github-readme-stats-lovat-three-94.vercel.app/api?username=HOLYKEYZ&theme=transparent&show_icons=true&count_private=true&border_color=4338ca&icon_color=4338ca&title_color=4338ca&text_color=24292e&cache_seconds=3600" alt="GitHub Stats" height="165"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=HOLYKEYZ&theme=transparent&border=4338ca&ring=4338ca&fire=4338ca&currStreakLabel=4338ca&currStreakNum=4338ca&sideNums=4338ca&sideLabels=4338ca&dates=888888"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=HOLYKEYZ&theme=transparent&border=4338ca&ring=4338ca&fire=4338ca&currStreakLabel=4338ca&currStreakNum=4338ca&sideNums=4338ca&sideLabels=4338ca&dates=555555"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=HOLYKEYZ&theme=transparent&border=4338ca&ring=4338ca&fire=4338ca&currStreakLabel=4338ca&currStreakNum=4338ca&sideNums=4338ca&sideLabels=4338ca&dates=555555" alt="GitHub Streak" height="165"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&hide=css&border_color=4338ca&title_color=4338ca&text_color=818cf8&cache_seconds=3600"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&hide=css&border_color=4338ca&title_color=4338ca&text_color=4338ca&cache_seconds=3600"/>
+    <img src="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&hide=css&border_color=4338ca&title_color=4338ca&text_color=4338ca&cache_seconds=3600" alt="Top Languages" height="165"/>
+  </picture>
 </p>
 
 ---
