@@ -60,16 +60,5 @@ Building real-time solutions to world problems through software
     <img src="https://github-readme-streak-stats-eight.vercel.app?user=HOLYKEYZ&theme=transparent&border=4338ca&ring=4338ca&fire=4338ca&currStreakLabel=4338ca&currStreakNum=4338ca&sideNums=4338ca&sideLabels=4338ca&dates=555555" alt="GitHub Streak" height="165"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&hide=css&border_color=4338ca&title_color=4338ca&text_color=818cf8&cache_seconds=3600"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&hide=css&border_color=4338ca&title_color=4338ca&text_color=4338ca&cache_seconds=3600"/>
-    <img src="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&hide=css&border_color=4338ca&title_color=4338ca&text_color=4338ca&cache_seconds=3600" alt="Top Languages" height="165"/>
-  </picture>
-</p>
-
----
-
-## 🤝 Open to Collaboration
-
-Working on AI safety(or LLMs red teaming), security tools, or scalable systems? Let's talk.
-
-[![Email](https://img.shields.io/badge/Email-4338ca?style=flat-square&logo=gmail&logoColor=white)](mailto:ayandajoseph390@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-4338ca?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2349019029665) [![Twitter](https://img.shields.io/badge/Twitter-4338ca?style=flat-square&logo=x&logoColor=white)](https://x.com/josepha_mayo)
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&hide=css&border_color=4338ca&title_color=4338ca&text_color=ffffff&cache_seconds=3600"/>
+    </picture>
