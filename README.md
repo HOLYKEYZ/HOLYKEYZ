@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=HOLYKEYZ&color=4338ca&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
-**AGENTIC ENGINEER**
+### AGENTIC ENGINEER
 
 Bridging AI alignment, digital security, and production systems. Building tools that matter.
 
