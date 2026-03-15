@@ -40,8 +40,8 @@ Building real-time solutions to world problems through software
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
   
 **Infrastructure & Deployment**  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-4338ca?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)<br>
-![Vercel](https://img.shields.io/badge/vercel-1a1a2e.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/render-1a1a2e.svg?style=flat-square&logo=render&logoColor=46E3B7)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-4338ca?style=flat-square&logo=neon) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)<br>
+![Vercel](https://img.shields.io/badge/vercel-4338ca.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/render-4338ca.svg?style=flat-square&logo=render&logoColor=46E3B7)
 
 ---
 
