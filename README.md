@@ -61,7 +61,7 @@ Building real-time solutions to world problems through software
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&hide=css&border_color=4338ca&title_color=4338ca&text_color=ffffff&cache_seconds=3600"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&hide=css&border_color=4338ca&title_color=4338ca&text_color=24292e&cache_seconds=3600"/>
-    <img src="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&hide=css&border_color=4338ca&title_color=4338ca&text_color=24292e&cache_seconds=3600" alt="Top Languages" height="165"/>
+    <img src="https://github-readme-stats-lovat-three-94.vercel.app/api/top-langs/?username=HOLYKEYZ&theme=transparent&layout=compact&langs_count=6&border_color=4338ca&title_color=4338ca&text_color=24292e&cache_seconds=3600" alt="Top Languages" height="165"/>
 </picture>
 </p>
 
