@@ -12,7 +12,7 @@ bridging AI alignment and production systems. building tools that matter.
 
 ## 🎯 what I Do
 
-**ai Safety** - researching and engineering safeguards for AI systems, including red teaming  
+**ai safety** - researching and engineering safeguards for AI systems, including red teaming  
 **fullstack development** - scalable web applications from concept to production  
 **agentic engineering** - Coding at the speed of thought
 
