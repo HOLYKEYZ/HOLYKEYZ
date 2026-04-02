@@ -1,46 +1,45 @@
-# Joseph Ayanda
+# joseph
 
 <div align="center">
-<img src="cover2.jpeg" alt="A man is great because failure hasn't stopped him"/>
+<img src="cover2.jpeg" alt="a man is great because failure hasn't stopped him"/>
 </div>
 <br>
 
-### AGENTIC ENGINEER
-
+### agentic engineer
 Bridging AI alignment and production systems. Building tools that matter.
 
 ---
 
-## 🎯 What I Do
+## 🎯 what I Do
 
-**AI Safety** - Researching and engineering safeguards for AI systems, including red teaming  
-**Fullstack Development** - Scalable web applications from concept to production  
-**Agentic Engineering** - Coding at the speed of thought
+**AI Safety** - researching and engineering safeguards for AI systems, including red teaming  
+**fullstack development** - scalable web applications from concept to production  
+**agentic engineering** - Coding at the speed of thought
 
-Building real-time solutions to world problems through software
+building real-time solutions to world problems through software
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ tech Arsenal
 
 <img src="joseph.jpeg" align="right" width="28%" style="border-radius: 20px; margin-left: 20px; margin-top: -50px; margin-right: 20px;" alt="Joseph Ayanda's profile picture" />
 
-**Systems & Core**  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![HolyC](https://img.shields.io/badge/HolyC-%23000000.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+**systems & core**  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![holyC](https://img.shields.io/badge/HolyC-%23000000.svg?style=flat-square&logo=c&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=ffdd54) ![typeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
-**Frontend**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+**frontend**  
+![react](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![tailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-**Backend**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+**backend**  
+![nodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) !fastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
   
-**Infrastructure & Deployment**  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-4338ca?style=flat-square&logo=neon) ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)<br>
-![Vercel](https://img.shields.io/badge/vercel-4338ca.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/render-4338ca.svg?style=flat-square&logo=render&logoColor=46E3B7)
+**infrastructure & deployment**  
+![supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![neon](https://img.shields.io/badge/Neon-4338ca?style=flat-square&logo=neon) ![postgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![mongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)<br>
+![vercel](https://img.shields.io/badge/vercel-4338ca.svg?style=flat-square&logo=vercel&logoColor=white) ![render](https://img.shields.io/badge/render-4338ca.svg?style=flat-square&logo=render&logoColor=46E3B7)
 
 ---
 
-## 📊 Activity
+## 📊 activity
 
 <p align="center">
   <picture>
