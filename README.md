@@ -3,7 +3,6 @@
 <div align="center">
 <img src="cover2.jpeg" alt="A man is great because failure hasn't stopped him"/>
 </div>
-
 <br>
 
 ### AGENTIC ENGINEER
