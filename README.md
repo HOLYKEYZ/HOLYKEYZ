@@ -4,7 +4,6 @@
 <img src="cover2.jpeg" alt="a man is great because failure hasn't stopped him"/>
 </div>
 <br>
-
 ### agentic engineer
 bridging AI alignment and production systems. building tools that matter.
 
