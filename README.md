@@ -22,7 +22,7 @@ building real-time solutions to world problems through software
 
 ## 🛠️ tech Arsenal
 
-<img src="joseph.jpeg" align="right" width="28%" style="border-radius: 20px; margin-left: 20px; margin-top: -50px; margin-right: 20px;" alt="Joseph Ayanda's profile picture" />
+<img src="joseph.png" align="right" width="28%" style="border-radius: 20px; margin-left: 20px; margin-top: -50px; margin-right: 20px;" alt="Joseph Ayanda's profile picture" />
 
 **systems & core**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![holyC](https://img.shields.io/badge/HolyC-%23000000.svg?style=flat-square&logo=c&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=ffdd54) ![typeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
