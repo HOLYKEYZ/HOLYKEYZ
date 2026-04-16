@@ -35,6 +35,11 @@ building real-time solutions to world problems through software
 ![supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![neon](https://img.shields.io/badge/Neon-4338ca?style=flat-square&logo=neon) ![postgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![mongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![docker](https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)<br>
 ![vercel](https://img.shields.io/badge/vercel-4338ca.svg?style=flat-square&logo=vercel&logoColor=white) ![render](https://img.shields.io/badge/render-4338ca.svg?style=flat-square&logo=render&logoColor=46E3B7)
 
+**ml / ai**  
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![transformers](https://img.shields.io/badge/transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LiteRT](https://img.shields.io/badge/LiteRT-4285F4?style=flat-square&logo=google&logoColor=white)
+
+tinkering with local models — guardrails, uncensoring, ablations, and low-level weight surgery. if it runs on-device, i want to break it.
+
 ---
 
 ## 📊 activity
@@ -63,4 +68,4 @@ building real-time solutions to world problems through software
 
 Working on AI safety(or red teaming) or building scalable systems? Let's talk.
 
-[![Email](https://img.shields.io/badge/Email-4338ca?style=flat-square&logo=gmail&logoColor=white)](mailto:ayandajoseph390@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-4338ca?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2349019029665) [![Twitter](https://img.shields.io/badge/Twitter-4338ca?style=flat-square&logo=x&logoColor=white)](https://x.com/josepha_mayo)
+[![Email](https://img.shields.io/badge/Email-4338ca?style=flat-square&logo=gmail&logoColor=white)](mailto:ayandajoseph390@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-4338ca?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2349019029665) [![Twitter](https://img.shields.io/badge/Twitter-4338ca?style=flat-square&logo=x&logoColor=white)](https://x.com/josepha_mayo) [![HuggingFace](https://img.shields.io/badge/HuggingFace-4338ca?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/HOLYKEYZ)
