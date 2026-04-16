@@ -15,7 +15,8 @@ bridging AI alignment and production systems. building tools that matter.
 **ai safety** - researching and engineering safeguards for AI systems, including red teaming  
 **fullstack development** - scalable web applications from concept to production  
 **agentic engineering** - coding at the speed of thought  
-**local llms** - tinkering with local models — guardrails, uncensoring, just experimenting...
+**local llms** - tinkering with local models — guardrails, uncensoring, just experimenting...  
+
 building real-time solutions to world problems through software
 
 ---
