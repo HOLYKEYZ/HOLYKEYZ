@@ -39,8 +39,6 @@ building real-time solutions to world problems through software
 **ml / ai**  
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/huggingface-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![transformers](https://img.shields.io/badge/transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LiteRT](https://img.shields.io/badge/LiteRT-4285F4?style=flat-square&logo=google&logoColor=white)
 
-tinkering with local models — guardrails, uncensoring, ablations, and low-level weight surgery. if it runs on-device, i want to break it.
-
 ---
 
 ## 📊 activity
