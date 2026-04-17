@@ -1,8 +1,5 @@
 # joseph
 
-<div align="center">
-<img src="cover2.jpeg" alt="a man is great because failure hasn't stopped him"/>
-</div>
 <br>
 
 ### agentic engineer
@@ -63,8 +60,8 @@ building real-time solutions to world problems through software
 
 ---
 
-## 🤝 Open to Collaboration
+## 🤝 open to collaboration
 
-Working on AI safety(or red teaming) or building scalable systems? Let's talk.
+working on AI safety & red teaming, scalable systems, agentic/local ai?, let's talk.
 
 [![Email](https://img.shields.io/badge/Email-4338ca?style=flat-square&logo=gmail&logoColor=white)](mailto:ayandajoseph390@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-4338ca?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/2349019029665) [![Twitter](https://img.shields.io/badge/Twitter-4338ca?style=flat-square&logo=x&logoColor=white)](https://x.com/josepha_mayo) [![HuggingFace](https://img.shields.io/badge/HuggingFace-4338ca?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/HOLYKEYZ)
