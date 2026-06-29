@@ -1,7 +1,7 @@
 # joseph
 
 ## stuff i do
-* AI/ML- SLMs an all that kinda stuff 
+* AI/ML- SLMs and all that kinda stuff 
 
 -training & fine tuning models- make them better for specialized tasks and building SLMs 
 
